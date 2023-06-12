@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @snehabhattacharya24
-- 👀 Just another noob learning to code
 - Python, R, SQL
 
 <!---
